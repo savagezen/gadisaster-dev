@@ -40,7 +40,7 @@ h3 {
 	width:1140px;
 	margin:0px auto 0px auto;
 	padding:0px 0px 0px 0px;
-	background-color: #FFF;
+	background-color: #637b8e;
 }
 .header2 img {
 	width:100%;
@@ -189,18 +189,19 @@ h3 {
 	padding: 0px;
 	text-align:right;
 }
-.blueband2 {
-	width:90%;
-	background-color: #637b8e;
+.whiteband {
+	width:100%;
+	background-color: #ffffff;
 	color: #FFF;
 	text-align: center;
 	vertical-align: middle;
 	margin-right: auto;
 	margin-left: auto;
 }
-.blueband2 img {
+.whiteband img {
 	padding-right:3px;
-	max-width: 150px;
+	height:auto;
+	max-width: 160px;
 }
 .footer {
 	width: 1100px;
@@ -513,18 +514,22 @@ h3 {
 	margin:0px auto 0px auto;
 
 	padding:5px 5px 5px 5px;
-	background-color: #FFF;
+	background-color: #637b8e;
 }	
 #georgiagov {
-	max-width:120px;
+  height:auto;
+	max-width:150px;
 }
 #dbhdd {
-	max-width::150px;
+  height:auto;
+	max-width:150px;
 }
 #dph {
-	max-width:120px;
+  height:auto;
+	max-width:150px;
 }
 #gadmh {
+  height:auto;
 	max-width:150;
 }
 .header2 {

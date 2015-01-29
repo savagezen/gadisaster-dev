@@ -5,9 +5,22 @@ Welcome to the *unofficial* repository for [georgiadisaster.info](http://georgia
 Please note that this page is for *testing and development purposes only*.  For questions, comments, or concerns, pleasae visit the [official website](http://georgiadisaster.info).
 
 ### To Do List
-> * Hamburger Menu / Mobile Navigation
+> * Front and Center Video on What to Do In Case of a Disaster
+> * Further Develop "Types of Disasters"
+> * Start Linking Other Pages and Finding Content
 
 ### What's New
+#### v0.4
+> * Responsive Menu! -- More to come on this 
+    - I'm sure there is a Dreamweaver plugin to make this easy, but I'm working from scratch at the moment.
+    - I also kept the CSS for the old menu intact (use columns later).
+> * Video menu tab with links to YouTube channel and specific playlists
+> * Twitter feed moved above banner
+> * Resized top header and footer height
+> * Organized <head> Content
+> * Weather Radar moved to "main content"
+> * Baisc "Types of Disasters" table on right content
+
 #### v0.3
 > * Further Consolodated Menus
 > * Embeded Weather Radar on Homepage

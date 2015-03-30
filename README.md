@@ -1,19 +1,24 @@
 # Georgia Disaster Mental Health
 
 > #### [*Development Site*](http://grandtheftjiujitsu.github.io/gadisaster-dev/#)
-> #### [*Boostrap - Off Canvas Version*](http://grandtheftjiujitsu.github.io/gadisaster-bootstrap-offcanvas/)
-> #### Bootstrap - Carousel Version (_Coming Soon_)
 
 --------------------------------
 Welcome to the *unofficial* repository for [georgiadisaster.info](http://georgiadisaster.info).  This page is being built as part of a graduate research assistantship project with the University of West Georgia.
 Please note that this page is for *testing and development purposes only*.  For questions, comments, or concerns, pleasae visit the [official website](http://georgiadisaster.info).
 
 ### To Do List
-> * Front and Center Video on What to Do In Case of a Disaster
-> * Further Develop "Types of Disasters"
-> * Start Linking Other Pages and Finding Content
+> * 
+
 
 ### What's New
+### v0.5 (Matches 3/18 Vesion on Adobe Creative Cloud)
+> * Downgrade to Original Website 
+> * Blue Header Background 
+> * Remove Menu Images
+> * Add Weather Radar
+> * Add Quick Link Buttons 
+> * Consolidate Menu (Quick Links)
+
 #### v0.4
 > * Responsive Menu! -- More to come on this 
     - I'm sure there is a Dreamweaver plugin to make this easy, but I'm working from scratch at the moment.

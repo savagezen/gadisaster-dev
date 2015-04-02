@@ -7,17 +7,31 @@ Welcome to the *unofficial* repository for [georgiadisaster.info](http://georgia
 Please note that this page is for *testing and development purposes only*.  For questions, comments, or concerns, pleasae visit the [official website](http://georgiadisaster.info).
 
 ### To Do List
-> * 
+> * Revise Military - Veteran's Resource Guide
+> * Get Help Now (button)- Red Cross App Instructions
+> * Scale Sponsor Link Images
+> * Complete Video Page
+> * Add app screenshots and additonal resoruces to Get Help Now page
 
+### Changelog
+### v1.1
+> * Created Demo Veteran's Resource Guide (Page)
+> * Quicklink Menu Replacements:  Volunteer, Radar, Apps
+> * Link Banner Image to Homepage
+> * Link in Main Content to SAMHSA Mental Health Components PDF
+> * Removed GADOE Sponsor Link
+> * Priority to GCC and GA Crisis Line Sponsor Links
+> * Template page added
+> * Alpha Pages:  Video, Get Help Now
+> * Change Main_Content2: Background Color, Font Color
 
-### What's New
-### v0.5 (Matches 3/18 Vesion on Adobe Creative Cloud)
+### v1.0
+> * Matches 3/18 Version on Adobe Creative Cloud (Originally Labeled v0.5)
 > * Downgrade to Original Website 
 > * Blue Header Background 
 > * Remove Menu Images
 > * Add Weather Radar
 > * Add Quick Link Buttons 
-> * Consolidate Menu (Quick Links)
 
 #### v0.4
 > * Responsive Menu! -- More to come on this 

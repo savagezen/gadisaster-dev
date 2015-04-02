@@ -113,7 +113,7 @@ h3 {
 
 .main_content2 {
 	width:96%;
-	background-color: #FFF;
+	background-color: #637b8e;
 	background-repeat: no-repeat;
 	float: center;
 	margin-top: 0px;
@@ -122,7 +122,7 @@ h3 {
 	margin-left: auto;
 	font-family: 'Open Sans', Verdana, Geneva, sans-serif;
 	font-size: 1em;
-	color: #333;
+	color: #000;
 	padding: 20px;
 }
 .main_content2 a:link    { color: #000099 }  /* unvisited links */

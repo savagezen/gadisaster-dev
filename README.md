@@ -7,13 +7,18 @@ Welcome to the *unofficial* repository for [georgiadisaster.info](http://georgia
 Please note that this page is for *testing and development purposes only*.  For questions, comments, or concerns, pleasae visit the [official website](http://georgiadisaster.info).
 
 ### To Do List
-> * Revise Military - Veteran's Resource Guide
-> * Get Help Now (button)- Red Cross App Instructions
+> * Get Help Now (button)- Red Cross App Instructions (v3.0)
+> * Revise Military - Veteran's Resource Guide (v4.0)
 > * Scale Sponsor Link Images
-> * Complete Video Page
-> * Add app screenshots and additonal resoruces to Get Help Now page
 
 ### Changelog
+### v2.0 - Video Page
+> * Main Page Link to Video Page
+> * YTCHANNELWIDGET.COM widget added to Video Page
+> * YouTube Button Link Added to Video Page Header
+> * Links to Make the Connection and About Face
+> * Embed YouTube Playlists
+
 ### v1.1
 > * Created Demo Veteran's Resource Guide (Page)
 > * Quicklink Menu Replacements:  Volunteer, Radar, Apps
@@ -25,7 +30,7 @@ Please note that this page is for *testing and development purposes only*.  For 
 > * Alpha Pages:  Video, Get Help Now
 > * Change Main_Content2: Background Color, Font Color
 
-### v1.0
+### v1.0 - Index Page Layout
 > * Matches 3/18 Version on Adobe Creative Cloud (Originally Labeled v0.5)
 > * Downgrade to Original Website 
 > * Blue Header Background 

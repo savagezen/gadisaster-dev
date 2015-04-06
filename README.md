@@ -7,11 +7,19 @@ Welcome to the *unofficial* repository for [georgiadisaster.info](http://georgia
 Please note that this page is for *testing and development purposes only*.  For questions, comments, or concerns, pleasae visit the [official website](http://georgiadisaster.info).
 
 ### To Do List
-> * Get Help Now (button)- Red Cross App Instructions (v3.0)
-> * Revise Military - Veteran's Resource Guide (v4.0)
+> * Get Help Now (button)- Red Cross App Instructions
 > * Scale Sponsor Link Images
 
 ### Changelog
+### v3.0 - Military Resource Page
+> * Militray Sexual Trauma added to Main Menu Under "Military"
+> * Military Sexual Trauma added to Verteran's Resource Page Quicklinks 
+> * Removed Current Events from Quicklinks
+> * Military Page Quick Links
+> * Restructure and create divisions on Military Resource page 
+> * Convert links to button-links on Military Resource Page 
+> * SAMHSA DTAC Playlist added to video page
+
 ### v2.0 - Video Page
 > * Main Page Link to Video Page
 > * YTCHANNELWIDGET.COM widget added to Video Page

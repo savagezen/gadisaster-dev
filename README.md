@@ -7,10 +7,24 @@ Welcome to the *unofficial* repository for [georgiadisaster.info](http://georgia
 Please note that this page is for *testing and development purposes only*.  For questions, comments, or concerns, pleasae visit the [official website](http://georgiadisaster.info).
 
 ### To Do List
-> * Get Help Now (button)- Red Cross App Instructions
+> * Update Apps Page (ARC Shelter, SAMHSA Suicide)
+> * Update Military Page:  Pete Wheeler Information
+> * Update Children and Disasters Page
+
 > * Scale Sponsor Link Images
+> * Compress Menu - "Greatest Hits" with "Additional Resources"
+> * Additional Resources Page w/ Sections Corresponding to Menu 
+> * BUG:  CSS - mobile menu not collapsing
 
 ### Changelog
+### v4.0 - Find a Shelter Page
+> * Beta for "Find a Shelter" instruction page created 
+> * Quicklinks on index page actually linked to pages
+> * Attempted fix fo Google Custom Search Engine
+> * Single column Quicklinks
+> * Types of Disasters Quicklink to NCTSN
+> * Re-link "Mental Health Components" to SAMHSA Recovery Statement
+
 ### v3.0 - Military Resource Page
 > * Militray Sexual Trauma added to Main Menu Under "Military"
 > * Military Sexual Trauma added to Verteran's Resource Page Quicklinks 

@@ -7,16 +7,31 @@ Welcome to the *unofficial* repository for [georgiadisaster.info](http://georgia
 Please note that this page is for *testing and development purposes only*.  For questions, comments, or concerns, pleasae visit the [official website](http://georgiadisaster.info).
 
 ### To Do List
-> * Update Apps Page (ARC Shelter, SAMHSA Suicide)
 > * Update Military Page:  Pete Wheeler Information
 > * Update Children and Disasters Page
-
+> * Military Page Link Checks
 > * Scale Sponsor Link Images
 > * Compress Menu - "Greatest Hits" with "Additional Resources"
 > * Additional Resources Page w/ Sections Corresponding to Menu 
 > * BUG:  CSS - mobile menu not collapsing
 
 ### Changelog
+### v5.0 - Apps Page
+> * Tabbed Menu:  Android and iPhone, Android, iPhone, Mobile Web 
+> * Icon links for respective apps and app stores
+> * Link Checks
+> > * Provider Resilience Title Link Removed
+> > * PTSD Coach Title Link Removed
+> > * GEMA Link updated 
+> > * National Resource Directory image goes to Federal Apps, changed to VA's National Resource Directory
+> > * Psychological First Aid image link to VA site broken / fixed
+> * Psychological First Aid is available for BOTH iOS and Android
+> > * Link update(s) for Android and iTunes store rather than federal listing
+> > * Main link to Red Cross app page rather than generic federal listing
+> Tactical Breather is available for BOTH iOS and Android
+> American Red Cross Shelters is available for BOTH iOS and Android
+> SAMHSA Suicide Safe app added (both iOS and Android)
+
 ### v4.0 - Find a Shelter Page
 > * Beta for "Find a Shelter" instruction page created 
 > * Quicklinks on index page actually linked to pages

@@ -8,14 +8,38 @@ Please note that this page is for *testing and development purposes only*.  For 
 
 ### To Do List
 > * Update Military Page:  Pete Wheeler Information
-> * Update Children and Disasters Page
 > * Military Page Link Checks
-> * Scale Sponsor Link Images
+
+> * Scale Sponsor Link Images on Home Page
 > * Compress Menu - "Greatest Hits" with "Additional Resources"
-> * Additional Resources Page w/ Sections Corresponding to Menu 
+> > * Additional Resources Page w/ Sections Corresponding to Menu 
 > * BUG:  CSS - mobile menu not collapsing
+> * NOTE: Children Page still has old menu
+> * NOTE: Prepare.org link "temporarily unavailable" (5/6/15)
+> * NOTE: APA linked Help Center article has been removed (link redirects)
 
 ### Changelog
+### v6.0 - General Public / Children 
+> * Tab Menu CSS and JS moved to Main Directory
+> * Tab Menu Template
+> * "Apps" Hotlink on Main Page broken / fixed
+> * Template added for footer "Additional Resources"
+> * General Public - Children
+> > * Removed Image - seemed irrelevant to children (replace?)
+> > * GEMA link broken / fixed (footer)
+> > * Ready.gov link updated to 2015 equivalent (footer)
+> > * Minor Formatting / Editing
+> > * Section links converted to Buttons 
+> > * Tabled Sections
+> > * Divisions created for linked sections
+> > * Sentence-long links shortened
+> > > * Links should be short and concise in statement.
+> > * "Childhood Developmental Level" and "Children Responses" are near duplicates (condensed)
+> > * "Books for Parents" made to list with Amazon links
+> > * Link Checks
+> > * APA linked Help Center article has been removed (link redirects)
+> > * Prepare.org link "temporarily unavailable" (5/6/15)
+
 ### v5.0 - Apps Page
 > * Tabbed Menu:  Android and iPhone, Android, iPhone, Mobile Web 
 > * Icon links for respective apps and app stores

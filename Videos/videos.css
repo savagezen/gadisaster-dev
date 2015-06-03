@@ -1,3 +1,8 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 body, ul, li {
     font-size:14px;
     font-family:Arial, Helvetica, sans-serif;
@@ -34,7 +39,7 @@ h3 {
 	height: 110px;
 	margin:0px auto 0px auto;
 	padding:0px 20px 0px 20px;
-	background-color: #637b8e;
+	background-color: #FFF;
 }
 .header2 {
 	width:1140px;
@@ -86,13 +91,13 @@ h3 {
 	padding-left: 0px;
 }
 .blueband_inside {
-	background-color: #637b8e;
+	background-color: #FFFFFF;
 	float: left;
 	width: 100%;
 }
 .main_content {
 	width:60%;
-	background-color: #637b8e;
+	background-color: #FFFFFF;
 	background-image: url(images/logos_13.png);
 	background-repeat: no-repeat;
 	float: left;
@@ -113,7 +118,7 @@ h3 {
 
 .main_content2 {
 	width:96%;
-	background-color: #fff;
+	background-color: #FFF;
 	background-repeat: no-repeat;
 	float: center;
 	margin-top: 0px;
@@ -122,7 +127,7 @@ h3 {
 	margin-left: auto;
 	font-family: 'Open Sans', Verdana, Geneva, sans-serif;
 	font-size: 1em;
-	color: #000;
+	color: #333;
 	padding: 20px;
 }
 .main_content2 a:link    { color: #000099 }  /* unvisited links */
@@ -142,7 +147,7 @@ h3 {
 }
 .right_content {
 	width:28%;
-	background-color: #637b8e;
+	background-color: #FFFFFF;
 	background-image: url(images/logos_13.png);
 	float: right;
 	margin-top: 0px;
@@ -189,32 +194,6 @@ h3 {
 	margin-left: auto;
 	padding: 0px;
 	text-align:right;
-}
-.btn {
-  background: #eeeeee;
-  background-image: -webkit-linear-gradient(top, #eeeeee, #bbbbbb);
-  background-image: -moz-linear-gradient(top, #eeeeee, #bbbbbb);
-  background-image: -ms-linear-gradient(top, #eeeeee, #bbbbbb);
-  background-image: -o-linear-gradient(top, #eeeeee, #bbbbbb);
-  background-image: linear-gradient(to bottom, #eeeeee, #bbbbbb);
-  -webkit-border-radius: 28;
-  -moz-border-radius: 28;
-  border-radius: 28px;
-  font-family: Arial;
-  color: #000000;
-  font-size: 13px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
-
-.btn:hover {
-  background: #eeeeee;
-  background-image: -webkit-linear-gradient(top, #eeeeee, #637b8e);
-  background-image: -moz-linear-gradient(top, #eeeeee, #637b8e);
-  background-image: -ms-linear-gradient(top, #eeeeee, #637b8e);
-  background-image: -o-linear-gradient(top, #eeeeee, #637b8e);
-  background-image: linear-gradient(to bottom, #eeeeee, #637b8e);
-  text-decoration: none;
 }
 .whiteband {
 	width:1100px;
@@ -564,6 +543,10 @@ h3 {
 	padding:5px 5px 5px 5px;
 	background-color: #FFF;
 }
+#mainchannel {
+	width:80%;
+	max-width:250px;
+}
 #georgiagov {
 	max-width:120px;
 }
@@ -614,13 +597,13 @@ img {
 	background-color: #637b8e;
 }
 .blueband_inside {
-	background-color: #637b8e;
+	background-color: #FFFFFF;
 	float: left;
 	width: 100%;
 }
 .main_content {
 	width:85%;
-	background-color: #637b8e;
+	background-color: #FFFFFF;
 	background-image: url(images/logos_13.png);
 	background-repeat: no-repeat;
 	float: left;
@@ -635,7 +618,7 @@ img {
 }
 .right_content {
 	width:85%;
-	background-color: #637b8e;
+	background-color: #FFFFFF;
 	background-image: url(images/logos_13.png);
 	float: right;
 	margin-top: 0px;
@@ -676,32 +659,6 @@ img {
 	padding-left: 0px;
 	visibility:hidden;
 }
-.btn {
-  background: #eeeeee;
-  background-image: -webkit-linear-gradient(top, #eeeeee, #bbbbbb);
-  background-image: -moz-linear-gradient(top, #eeeeee, #bbbbbb);
-  background-image: -ms-linear-gradient(top, #eeeeee, #bbbbbb);
-  background-image: -o-linear-gradient(top, #eeeeee, #bbbbbb);
-  background-image: linear-gradient(to bottom, #eeeeee, #bbbbbb);
-  -webkit-border-radius: 28;
-  -moz-border-radius: 28;
-  border-radius: 28px;
-  font-family: Arial;
-  color: #000000;
-  font-size: 13px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
-
-.btn:hover {
-  background: #eeeeee;
-  background-image: -webkit-linear-gradient(top, #eeeeee, #637b8e);
-  background-image: -moz-linear-gradient(top, #eeeeee, #637b8e);
-  background-image: -ms-linear-gradient(top, #eeeeee, #637b8e);
-  background-image: -o-linear-gradient(top, #eeeeee, #637b8e);
-  background-image: linear-gradient(to bottom, #eeeeee, #637b8e);
-  text-decoration: none;
-}
 .whiteband {
 	width:100%;
 	margin:0px auto 0px auto;
@@ -728,6 +685,8 @@ img {
     height: auto;
 	padding: 5%;
 	margin: 5%;
+
+	
 }
 .footer {
 	width:100%;
